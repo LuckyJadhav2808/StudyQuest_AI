@@ -1,0 +1,20 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.local
+
+# Configuration files with API keys
+config.js
+
+# IDE files
+.vscode/
+.idea/
+.gemini/
+antigravity/
+
+# Temporary files
+tmp/
+temp/
